@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
 
-<coverage line-rate="0.8666666666666667" branch-rate="1.0" lines-covered="39" lines-valid="45" branches-covered="2" branches-valid="2" complexity="1.0909090909090908" version="2.0.3" timestamp="1433740830918">
+<coverage line-rate="0.8666666666666667" branch-rate="1.0" lines-covered="39" lines-valid="45" branches-covered="2" branches-valid="2" complexity="1.0909090909090908" version="2.0.3" timestamp="1433741202700">
 	<sources>
 		<source>--source</source>
 		<source>D:/Maven projects/CodeshipCoverage/MockitoPOC/src/main/java</source>
