@@ -1,1 +1,1 @@
-![Codeship status](https://codeship.com/projects/f77fb0e0-efc8-0132-565a-467c643acace/status?branch=master)
+![Codeship status](https://codeship.com/projects/f77fb0e0-efc8-0132-565a-467c643acace/status)
